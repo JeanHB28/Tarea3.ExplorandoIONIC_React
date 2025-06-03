@@ -1,0 +1,20 @@
+.table-buttons {
+  margin: 20px 0;
+}
+
+.multiplicador-list {
+  margin-top: 20px;
+}
+
+.multiplicador-list ion-item {
+  --padding-start: 0;
+}
+
+.multiplicador-list ion-label {
+  font-size: 1.1em;
+  font-family: monospace;
+}
+
+ion-item {
+  margin-bottom: 10px;
+} 

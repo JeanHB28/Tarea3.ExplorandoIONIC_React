@@ -1,0 +1,7 @@
+{
+  "name": "Desde0",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

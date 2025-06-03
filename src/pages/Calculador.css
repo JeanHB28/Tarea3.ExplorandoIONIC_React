@@ -1,0 +1,17 @@
+.calculator-buttons {
+  margin-top: 20px;
+}
+
+.result {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.result h2 {
+  color: var(--ion-color-primary);
+  font-size: 1.5em;
+}
+
+ion-item {
+  margin-bottom: 10px;
+} 

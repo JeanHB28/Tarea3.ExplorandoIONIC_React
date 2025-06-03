@@ -1,0 +1,20 @@
+.personal-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.photo-container{
+    width: 130px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.info-container{
+text-align: center;
+}
+
+.info-container{
+    margin: 10px 0;
+    font-size: 1.1em;
+}
